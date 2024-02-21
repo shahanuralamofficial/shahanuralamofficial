@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahanur+Alam!;" />
 </h1>
 
-<h3 align="center">A Computer Science and Enginnering Student from Varendra University Rajshahi, Bangladesh </h3>
+<h3 align="center">A Computer Science and Engineering Student from Varendra University Rajshahi, Bangladesh </h3>
 
 <br/>
 
